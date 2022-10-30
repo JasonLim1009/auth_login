@@ -1,9 +1,13 @@
 # Getting Started with Create React App
 
+
 npm i axios
 npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
+
+
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/198868309-4c5c6e50-3099-4828-a70c-9e3662dcb2c2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
